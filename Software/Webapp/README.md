@@ -36,6 +36,6 @@ The HexaRescue web application is divided into four main sections, each designed
 
   This creates a detailed history of all potential victims detected during the mission.
 
-  
+  ## Entire web application :
  <img width="244" height="737" alt="image" src="https://github.com/user-attachments/assets/585c06db-2f8c-4df0-b30c-5867f45fd5da" />
 
