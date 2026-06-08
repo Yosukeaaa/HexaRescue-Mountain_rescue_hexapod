@@ -5,9 +5,7 @@ The HexaRescue web application is divided into four main sections, each designed
 <div style="display: flex; align-items: center;">
 <img width="244" height="737" alt="image" src="https://github.com/user-attachments/assets/585c06db-2f8c-4df0-b30c-5867f45fd5da" style="margin-right: 20px;"/>
   <p>
-    Ton texte ici. Tu peux écrire plusieurs lignes, mettre des titres, etc.
-  </p>
-</div>
+
 
 ## Status & Telemetry Panel
 This section displays the robot’s real‑time state through colored indicators.
@@ -40,3 +38,9 @@ Each entry includes:
   - Thermal signature
 
 This creates a detailed history of all potential victims detected during the mission.
+
+
+    
+  </p>
+</div>
+
