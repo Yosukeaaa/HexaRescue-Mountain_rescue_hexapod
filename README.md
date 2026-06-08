@@ -49,6 +49,7 @@ The smartphone connects simultaneously to:
 The Jetson Nano runs YOLOv5 to detect people.
 
 When a detection occurs, the ESP32 cross‑checks it with thermal data from the GridEYE sensor. 
+
 <img width="236" height="197" alt="image" src="https://github.com/user-attachments/assets/e75a75bf-14fa-4ead-84fb-fdbef59615e7" /> <img width="231" height="178" alt="image" src="https://github.com/user-attachments/assets/608b7a97-187c-4ed2-996c-63f660a11b36" />
 
 If both confirm a human presence, the operator receives an alert popup with timestamp and GPS coordinates. <img width="633" height="443" alt="image" src="https://github.com/user-attachments/assets/dba4bd86-cb95-4c18-a382-d7869a8ddf94" />
