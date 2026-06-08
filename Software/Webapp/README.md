@@ -1,4 +1,4 @@
-<img width="273" height="210" alt="image" src="https://github.com/user-attachments/assets/44d3e111-2353-4680-84ad-40aa97803237" /># Web Application Overview
+# Web Application Overview
 The HexaRescue web application is divided into four main sections, each designed to give the operator a clear and efficient control interface.
 
   ## Status & Telemetry Panel
@@ -12,7 +12,7 @@ The HexaRescue web application is divided into four main sections, each designed
   - Thermal view — temperature‑based visualization  
   - Fusion view — combined RGB + thermal overlay for enhanced detection
 
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/673a13ae-728d-47d3-a4d2-d64a6360c886" /> --> <img width="277" height="235" alt="image" src="https://github.com/user-attachments/assets/2b8f6580-e4eb-4d9c-b739-dd770a24a2a9" /> --> <img width="312" height="245" alt="image" src="https://github.com/user-attachments/assets/38620d12-16c2-47ad-bbd6-6549fbbe7e06" />
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/673a13ae-728d-47d3-a4d2-d64a6360c886" /> --> <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/2b8f6580-e4eb-4d9c-b739-dd770a24a2a9" /> --> <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/38620d12-16c2-47ad-bbd6-6549fbbe7e06" />
 
 
 
