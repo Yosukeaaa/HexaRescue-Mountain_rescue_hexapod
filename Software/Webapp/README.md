@@ -1,12 +1,6 @@
 # Web Application Overview
 The HexaRescue web application is divided into four main sections, each designed to give the operator a clear and efficient control interface.
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <img width="244" height="737" alt="image" src="https://github.com/user-attachments/assets/585c06db-2f8c-4df0-b30c-5867f45fd5da" />
-
-  <div>
-
   ## Status & Telemetry Panel
   This section displays the robot’s real‑time state through colored indicators.
   Each LED‑style indicator reflects the health of a subsystem (robot status, sensors, communication, ...).
@@ -37,6 +31,6 @@ The HexaRescue web application is divided into four main sections, each designed
 
   This creates a detailed history of all potential victims detected during the mission.
 
-  </div>
+  
+ <img width="244" height="737" alt="image" src="https://github.com/user-attachments/assets/585c06db-2f8c-4df0-b30c-5867f45fd5da" />
 
-</div>
