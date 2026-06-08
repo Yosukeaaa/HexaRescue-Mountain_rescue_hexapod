@@ -25,6 +25,10 @@ The HexaRescue web application is divided into four main sections, each designed
   - Rotation  
   - Head movement (left/right and up/down)  
 
+ In addition to directional controls, the interface includes sliders that allow the operator to adjust
+  the robot’s walking height, body elevation, and overall movement speed, offering precise control
+  over its locomotion.
+  
   Commands are sent instantly through the ESP32, ensuring responsive control during navigation.
 
   ## Detection Alerts & History
