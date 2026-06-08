@@ -1,6 +1,7 @@
 HexaRescue is powered by a 2S Li‑Po battery. From this battery, three separate power rails are derived:
 
-    - Servo power rail — The SSC‑32U board is connected directly to the Li‑Po and supplies power to the 20 servomotors (18 for the legs, 2 for the camera arm).
+    - Servo power rail — The SSC‑32U board is connected directly to the Li‑Po and supplies power to the 20 servomotors 
+    (18 for the legs, 2 for the camera arm).
 
     - 5V rail — A 5V buck converter steps down the battery voltage to power the Jetson Nano and the ESP32.
 
