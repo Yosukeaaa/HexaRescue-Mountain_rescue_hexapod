@@ -11,4 +11,4 @@ A main power switch is placed right after the battery to ensure safety during st
 
 The following diagram shows the overall electrical architecture of the robot.
 
-<img width="681" height="319" alt="image" src="https://github.com/user-attachments/assets/5ba4cf56-6307-41bb-b164-a9887780755c" />
+<img width="681" height="400" alt="image" src="https://github.com/user-attachments/assets/5ba4cf56-6307-41bb-b164-a9887780755c" />
